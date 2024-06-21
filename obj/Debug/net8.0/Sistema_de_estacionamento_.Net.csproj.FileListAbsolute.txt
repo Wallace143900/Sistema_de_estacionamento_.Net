@@ -1,0 +1,15 @@
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\bin\Debug\net8.0\Sistema_de_estacionamento_.Net.exe
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\bin\Debug\net8.0\Sistema_de_estacionamento_.Net.deps.json
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\bin\Debug\net8.0\Sistema_de_estacionamento_.Net.runtimeconfig.json
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\bin\Debug\net8.0\Sistema_de_estacionamento_.Net.dll
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\bin\Debug\net8.0\Sistema_de_estacionamento_.Net.pdb
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.AssemblyInfoInputs.cache
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.AssemblyInfo.cs
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.csproj.CoreCompileInputs.cache
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.sourcelink.json
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.dll
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\refint\Sistema_de_estacionamento_.Net.dll
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.pdb
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\Sistema_de_estacionamento_.Net.genruntimeconfig.cache
+C:\Users\hiper\OneDrive\Área de Trabalho\Sistema_de_estacionamento_.Net\obj\Debug\net8.0\ref\Sistema_de_estacionamento_.Net.dll
